@@ -16,13 +16,14 @@
   - abon
 ### 相談したいこと
 1. hoge
-  1-1. huga
-  1-2. abon
+   1-1. huga
+   1-2. abon
 2. hoge
-  2-1. hugahuga
-  2-2. fooooo
+   2-1. hugahuga
+   2-2. fooooo
    
 ## 備考
 ### タスク進捗
 DONE:hoge
+
 TODO:huga
